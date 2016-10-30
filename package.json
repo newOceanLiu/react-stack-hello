@@ -6,6 +6,19 @@
   "author": "hyliu",
   "license": "MIT",
   "scripts": {
-    "start": "node ."
+    "start": "gulp"
+  },
+  "dependencies": {
+    "del": "^2.2.2"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
+  "babel": {
+    "presets": [
+      "latest"
+    ]
   }
 }
