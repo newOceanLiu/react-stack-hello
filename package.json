@@ -1,0 +1,11 @@
+{
+  "name": "react-stack-hello",
+  "version": "1.0.0",
+  "description": "hello world for react stack ",
+  "main": "index.js",
+  "author": "hyliu",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
